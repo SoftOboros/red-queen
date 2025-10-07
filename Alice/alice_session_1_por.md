@@ -1,3 +1,14 @@
+
+
+This was a test of the curiosor.ai 'Alice' model using openai ChatGPT GPT-5-Intant with on 'Pro' query.
+
+The premise is is to drive the Alice 'onboarding' interview with a 'fictional' idea so as to not give one of my own to them and them evalutate the quality of the reaponses.  This was essentially my interview of Alice for my team via her onboarding interview for an idea.
+
+[ChatGPT Thread](https://chatgpt.com/share/68e56216-7588-8013-9f21-53fbf7a961ca)
+
+
+Below is the conversation with Alice in its enitrety from the 'Alice' Window:
+ 
 Hi Ira,
 Let's continue our journey together, and explore another idea.
 Ready to start?
