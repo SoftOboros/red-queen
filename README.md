@@ -77,6 +77,18 @@ cold, clean data points in an arms race between narrative and understanding.
 
 ---
 
+### 📚 Other Documents
+
+- [Alice Session 1 PoR Summary](Alice/alice_session_1_por.md)
+- [Alice Session 1 PoR Metrics](Alice/reports/alice_session_1_por.md)
+- [ChatGPT Thread — Alice Session 1](https://chatgpt.com/share/68e56216-7588-8013-9f21-53fbf7a961ca)
+
+---
+
+### [Episode 2: The Mad Hatter and the Red Queen](Hatter/Hatter-and-the-Red-Queen.md)
+
+---
+
 <p align="center">
   <strong>© SoftOboros — Red Queen AI Lab</strong><br>
 </p>
